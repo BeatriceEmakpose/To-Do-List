@@ -1,0 +1,7 @@
+To Do List - Java Script Task 
+
+The concept is an interactive tool for a natural hair company's website.  They will be able to organise their haircare routine by typing the task they wish to accomplish and then clicking 'add'. Once the task has been completed they just need to click the 'x' button. 
+
+The idea is for users who sign in to use this tool as a way to keep up todate with their haircare and track their progress. It's for engagement purposes. 
+
+Unfortunately, at the moment once you refresh the page you lose the to do list, the plan is for this to be something that signed in users can save and track. 
