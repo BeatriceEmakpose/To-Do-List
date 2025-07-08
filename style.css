@@ -1,0 +1,59 @@
+body{
+    font-family: 'Libertinus Mono', monospace;
+    background-color:goldenrod;
+    
+
+    background-image:url('Curl\ Cafe\ spa.png');
+    background-size:cover;
+    background-attachment:fixed;
+    background-position:center;
+    color:#3d2b1f;
+
+
+}
+
+h1{
+    color:rgb(4, 86, 4);
+    font-weight: 600;
+}
+
+.btn-curl{
+    background-color:#d18972;
+    color:white;
+    border:none;
+    transition:background-color 0.3 ease;
+    
+}
+
+.btn-curl:hover{
+    background-color:#b8735d;
+
+}
+
+#taskList li{
+    background-color: #fff4ec;
+    border:none;
+    border-left: 6px solid #d18972;
+    padding:10px;
+    margin-bottom:5px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    cursor:pointer;
+}
+
+#taskList li.done{
+    text-decoration:line-through ;
+    opacity:0.6;
+
+}
+
+.remove-btn{
+    background:none;
+    border:none;
+    color:#b8735d;
+    font-weight:bold;
+    cursor:pointer;
+    font-size: 18px;
+    line-height: 1;
+}
